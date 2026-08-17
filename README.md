@@ -17,28 +17,35 @@ This repository showcases selected data analytics projects completed during my p
     * Vaccine stock monitoring
     * Antigen kit stock monitoring based on previous consumption patterns
 
+  #### Tools & technologies:
+  Excel | Power BI | SQL | Google Sheets
+
   ####  Reports:
-1)
+1) At a glance page<br>
  ![Image1](https://github.com/anagha-more/Previous-works-project_by_anagha/blob/main/Covid_dashboard_image1.png)
 
-2)
+2) Ward wise break down of covid positive cases 
   ![Image2](https://github.com/anagha-more/Previous-works-project_by_anagha/blob/main/Covid_dashboard_image2.png)
   
-3)
+3) Trend of covid tests conducted vs positivity
   ![Image3](https://github.com/anagha-more/Previous-works-project_by_anagha/blob/main/Covid_dashboard_image3.png)
 
-4) 
+4) Age group wise and Gender wise analysis of covid cases
 ![Image4](https://github.com/anagha-more/Previous-works-project_by_anagha/blob/main/Covid_dashboard_image4.png)
 
 ### PROJECT 2: Routine Immunization data handling & Reporting
 - Managed and analyzed routine immunization data to track coverage rates, missed doses, and vaccine stock levels.
 - Identified areas with low vaccination coverage, helping to optimize outreach and intervention programs.
 - Worked closely with health departments and stakeholders to streamline data collection, validation, and reporting.
+ #### Tools & technologies:
+  Excel | Power BI | Google Sheets
 
 ### PROJECT 3: Measles Outbreak Reporting
 - Monitored measles case trends to identify spikes and declines, and prepared reports with clear data visualizations for public health professionals
 - Collaborated with health agencies and stakeholders to ensure accurate reporting and timely decision-making.
+#### Tools & technologies:
+  Excel | Power BI | Google Sheets
   
 
 
-The projects listed above are some of the key projects I have worked on during my professional experience. In addition, I have created and managed various ad-hoc reports and analyses to support different projects and operational requirements.
+*** The projects listed above are some of the key projects I have worked on during my professional experience. In addition, I have created and managed various ad-hoc reports and analyses to support different projects and operational requirements.
