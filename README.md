@@ -3,7 +3,7 @@
 This repository showcases selected data analytics projects completed during my professional experience, demonstrating practical application of data management, analysis, reporting, and visualization in a real-world public health environment.
 
 
-> **Note:** Due to departmental data-sharing and confidentiality restrictions, original reports and datasets for selected projects are not included. The project descriptions highlight the analytical scope, tools used, and key contributions.
+> **Note:** Due to departmental data-sharing and confidentiality restrictions, only a limited number of images and report samples are included. The project descriptions highlight the analytical scope, tools used, and key contributions.
 
 ### PROJECT 1: COVID-19 Data Management & Reporting
 - Worked on daily data management, validation, analysis, and reporting of COVID-19 cases. The resulting reports were published publicly on the organization's website on a daily basis in PDF format.
